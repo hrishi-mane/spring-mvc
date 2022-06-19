@@ -4,6 +4,6 @@
     <title>APP</title>
 </head>
 <body>
-<a href="${pageContext.request.contextPath}/app/showForm">Click the link please!!!!!!</a>
+<a href="${pageContext.request.contextPath}/student/showForm">Click the link please!!!!!!</a>
 </body>
 </html>
